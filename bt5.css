@@ -1,0 +1,17 @@
+.page{
+	width: 30%;
+	background: pink;
+	height: 300px;
+}
+h1{
+	text-align: center;
+}
+h1:hover{
+	
+	color: white;
+	background: gray;
+}
+ul{
+	list-style: decimal;
+	font-size: 20px;
+}
